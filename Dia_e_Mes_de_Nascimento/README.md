@@ -1,0 +1,1 @@
+# Application who receives a birthday date and writes, in portuguese, a weekday and month of user's birth.
